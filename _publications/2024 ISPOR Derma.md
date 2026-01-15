@@ -1,7 +1,8 @@
 ---
 title: "Key Features of Economic Models Used in Submissions to NICE in Dermatology Indications"
 collection: publications
-permalink: /publication/2024ISPOR-dermatology-models
+category: conferences
+permalink: /publication/2024-12-25-ISPOR-dermatology-models
 date: 2024-12-25
 venue: 'ISPOR Europe 2024 (Barcelona, Spain)'
 paperurl: 'https://dx.doi.org/10.1016/j.jval.2025.09.1363'
